@@ -22,5 +22,5 @@ Dataset diperoleh dari Kaggle : https://www.kaggle.com/barelydedicated/bank-cust
 
 
 File Jupyter Notebook :
-1.Bank_DataClean&EDA
-2.Bank_Churn_ML_Oversampling-cv3
+- 1.Bank_DataClean&EDA
+- 2.Bank_Churn_ML_Oversampling-cv3
